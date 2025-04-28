@@ -1,1 +1,2 @@
 # Cancer-Prediction
+"The Cancer Prediction project leverages machine learning algorithms to accurately predict the likelihood of cancer based on patient data. Developed using Python and data science techniques, it analyzes critical features to assist in early diagnosis. The model aims to support healthcare professionals in making informed decisions and improving patient outcomes through timely detection."
